@@ -1,0 +1,6 @@
+customhost = "database-1.cdagjwvervta.us-east-1.rds.amazonaws.com"
+customuser = "herng"
+custompass = "herng123"
+customdb = "employee"
+custombucket = "tancherngherngemployee"
+customregion = "us-east-1"
